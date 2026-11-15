@@ -20,7 +20,7 @@ IELTS Prepsite is a specialized IELTS preparation platform focused exclusively o
 - **Sample Answers:** Learn from natural and well-structured responses.
 - **Vocabulary & Expressions:** Build fluency with useful phrases and topic-specific vocabulary.
 
-## Our Mission
+## Mission
 
 To make IELTS Writing and Speaking preparation more practical, accessible, and effective by providing focused learning resources and structured practice opportunities.
 
